@@ -11,6 +11,8 @@
 
 #firebase
 /src/firebase.js
+/src/ColorPanel
+/src/SidePanel
 
 # misc
 .DS_Store
